@@ -1,0 +1,12 @@
+
+http://apis.data.go.kr/B552584/ArpltnInforInqireSvc/getCtprvnRltmMesureDnsty?serviceKey=P8f%2BfF55z%2BXc91%2B566%2FT9Sw5%2FhJ7W7xQDu%2BGUo196e03LkZ4vKzizKOOQHDe78SENB%2FEjkhK%2Fdb6JctcHSnBxg%3D%3D&sidoName=대구&returnType=json
+
+1851167299:AAFO4yxT9Egg_3sy4JY7FSFQL37yrv2ukDQ
+
+https://api.telegram.org/bot1851167299:AAFO4yxT9Egg_3sy4JY7FSFQL37yrv2ukDQ/getMe
+
+https://api.telegram.org/bot1851167299:AAFO4yxT9Egg_3sy4JY7FSFQL37yrv2ukDQ/getUpdates
+
+chat_id=1840985126
+
+https://api.telegram.org/bot1851167299:AAFO4yxT9Egg_3sy4JY7FSFQL37yrv2ukDQ/sendMessage?chat_id=1840985126&text=안녕
